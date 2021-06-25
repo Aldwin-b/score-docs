@@ -50,4 +50,3 @@ In the example above, you can see multiple automation slots actually got superpo
 
 You can also remove an automation from the stack by clicking on a slot background. Bring the contextual menu using right-click and select `remove`.
 
-![Remove automation]({{ site.img }}/quick-start/states-and-automations-in-practice/remove-automation.png "Remove automation")
